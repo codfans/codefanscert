@@ -1,0 +1,128 @@
+/*#bg {
+    background-image: url(logo2.jpg);
+    height: 617px;
+    width: 822px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-size: contain;
+    margin: 0 auto;
+        position: relative;
+}
+*/
+#middle{
+	margin: 0 auto;
+	 height: 617px;
+    width: 822px;
+}
+
+#new{
+	  height: 617px;
+    width: 822px;
+}
+#main-cover {
+    height: 617px;
+    width: 822px;
+    position: relative;
+    top: -620px;
+}
+
+span#small {
+    color: #ffffff;
+    position: relative;
+    top: 74px;
+    left: 298px;
+    word-spacing: 3px;
+    letter-spacing: 4px;
+    font-weight: lighter;
+}
+
+h1 {
+    color: #ffffff;
+    position: relative;
+    top: 87px;
+    left: 231px;
+    letter-spacing: 7px;
+    font-size: 40px;
+}
+
+div#fname {
+    position: relative;
+    text-align: center;
+    top: 178px;
+    font-size: 32px;
+    margin: 0 auto;
+    height: 32px;
+    font-family: 'Sacramento', cursive;
+    color: #ff7f50;
+}
+p#course {
+    font-size: 21px;
+    letter-spacing: 1px;
+    font-variant-caps: small-caps;
+}
+p#txt {
+    position: relative;
+    top: 178px;
+    left: 235px;
+    font-size: 21px;
+}
+
+div#course-name {
+    position: relative;
+    top: 113px;
+    left: 132px;
+    margin: 0 auto;
+}
+
+span#signat {
+    position: relative;
+    left: 426px;
+    top: 130px;
+}
+span#date {
+    position: relative;
+    top: 130px;
+    left: 178px;
+}
+
+div#logo{
+	background-image: url('logo1.jpeg');
+}
+
+#logo {
+    position: absolute;
+    width: 187px;
+    top: 403px;
+    left: 317px;
+}
+
+.verified-text {
+    position: relative;
+    top: 197px;
+    text-align: center;
+}
+
+span#idstrict {
+    font-weight: bold;
+    color: #00008b;
+}
+
+span#sh-signat {
+    position: relative;
+    top: 156px;
+    left: 310px;
+    font-weight: lighter;
+    word-spacing: 2px;
+    letter-spacing: 3px;
+}
+
+span#sh-date {
+    position: relative;
+    top: 156px;
+    left: 125px;
+    word-spacing: 3px;
+    letter-spacing: 3px;
+    text-align: center;
+    font-weight: lighter;
+}
+
